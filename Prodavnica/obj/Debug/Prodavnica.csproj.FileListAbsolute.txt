@@ -1,0 +1,12 @@
+C:\Users\petar\Documents\SKOLA\Treca godina\TVP\Projekat_septembar\Prodavnica\Prodavnica\bin\Debug\Prodavnica.exe.config
+C:\Users\petar\Documents\SKOLA\Treca godina\TVP\Projekat_septembar\Prodavnica\Prodavnica\bin\Debug\Prodavnica.exe
+C:\Users\petar\Documents\SKOLA\Treca godina\TVP\Projekat_septembar\Prodavnica\Prodavnica\bin\Debug\Prodavnica.pdb
+C:\Users\petar\Documents\SKOLA\Treca godina\TVP\Projekat_septembar\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Form1.resources
+C:\Users\petar\Documents\SKOLA\Treca godina\TVP\Projekat_septembar\Prodavnica\Prodavnica\obj\Debug\Prodavnica.PregledRacuna.resources
+C:\Users\petar\Documents\SKOLA\Treca godina\TVP\Projekat_septembar\Prodavnica\Prodavnica\obj\Debug\Prodavnica.Properties.Resources.resources
+C:\Users\petar\Documents\SKOLA\Treca godina\TVP\Projekat_septembar\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csproj.GenerateResource.cache
+C:\Users\petar\Documents\SKOLA\Treca godina\TVP\Projekat_septembar\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csproj.CoreCompileInputs.cache
+C:\Users\petar\Documents\SKOLA\Treca godina\TVP\Projekat_septembar\Prodavnica\Prodavnica\obj\Debug\Prodavnica.exe
+C:\Users\petar\Documents\SKOLA\Treca godina\TVP\Projekat_septembar\Prodavnica\Prodavnica\obj\Debug\Prodavnica.pdb
+C:\Users\petar\Documents\SKOLA\Treca godina\TVP\Projekat_septembar\Prodavnica\Prodavnica\obj\Debug\Prodavnica.csprojAssemblyReference.cache
+C:\Users\petar\Documents\SKOLA\Treca godina\TVP\Projekat_septembar\Prodavnica\Prodavnica\obj\Debug\Prodavnica.FrmNoviArtikal.resources
